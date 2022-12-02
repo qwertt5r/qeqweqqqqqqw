@@ -1,2 +1,2 @@
 fly(transformup += !10!)#
-slide(transformdown -= !7!)#
+if #Case.RUN# Get.Companent.fromcharacter##Spees += 15## #
