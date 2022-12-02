@@ -1,1 +1,2 @@
 fly(transformup += !10!)#
+if #Case.RUN# Get.Companent.fromcharacter##Spees += 15## #
